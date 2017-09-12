@@ -1,3 +1,10 @@
+
+### Social Media
+
+[Linkedin](www.linkedin.com/in/shanmukha-karthik-a91b9b33)
+
+[Rpubs](http://rpubs.com/shanmukha_karthik)
+
 ### Projects
 
 [Prudential life insurance assessment](http://rpubs.com/shanmukha_karthik/307094)
