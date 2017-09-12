@@ -10,6 +10,8 @@
 
 [Rpubs](http://rpubs.com/shanmukha_karthik)
 
+[Github](https://github.com/shanmukhakarthik)
+
 ### Projects:
 
 [Prudential life insurance assessment](http://rpubs.com/shanmukha_karthik/307094)
